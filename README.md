@@ -1,7 +1,6 @@
 Hello there 👋
 
-🌱 I’m currently studying Computer Science & 
-🔭 I'm intrested in working on cool projects
+🌱 I’m currently studying Computer Science & I'm intrested in working on cool projects.
 
 ☕ My favorite data structure is coffee.
 <!--
