@@ -1,5 +1,9 @@
-## Hi there 👋
+Hello there 👋
 
+🌱 I’m currently studying Computer Science & 
+🔭 I'm intrested in working on cool projects
+
+☕ My favorite data structure is coffee.
 <!--
 **lostin404paradise/lostin404paradise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
